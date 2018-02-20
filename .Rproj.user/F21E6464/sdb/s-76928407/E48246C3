@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1432011973611.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E48246C3",
+    "lastKnownWriteTime" : 6146955360084164607,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "all_user_info_data",
+        "contentUrl" : "content?title=all_user_info_data&file=1dcedcabd969448f8aaf6b3ec1024aae.htm",
+        "displayedObservations" : 5,
+        "displayedVariables" : 51,
+        "totalObservations" : 5,
+        "variables" : 51
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
